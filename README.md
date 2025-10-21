@@ -23,5 +23,4 @@ Os resultados indicam que há uma tendência de aumento das notas médias confor
 ## ✍️ Autor
 **Fernando Moro**  
 Analista de Dados Júnior em formação.  
-[[![LinkedIn](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg)](https://www.linkedin.com/in/seu-usuario)
-]([https://www.linkedin.com/](https://www.linkedin.com/in/fernando-moro-660135167/)) | [GitHub]([https://github.com/seuusuario](https://github.com/MoroF10))
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/fernando-moro-660135167) | [GitHub]([https://github.com/seuusuario](https://github.com/MoroF10))
