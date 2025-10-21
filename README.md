@@ -25,5 +25,15 @@ Os resultados indicam que há uma tendência de aumento das notas médias confor
 Analista de Dados Júnior em formação.  
 
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/fernando-moro-660135167) | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" />
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/fernando-moro-660135167) | <
+<img
+	align = "left"
+	alt = "Python"
+	title = "Python"
+	width = "45px"
+	style = "padding-right: 10px" 
+	src=src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg"  />
+                                                                                                                                                                       
+                                                                                                                                           
+          
           
