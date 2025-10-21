@@ -18,7 +18,7 @@ Mais do que números, esta análise pretende levantar reflexões sobre os desafi
 - `powerbi/` → dashboard interativo  
 
 ### 📚 Publicação relacionada
-Confira a análise completa em SQL no Medium : [[Análise Exploratória do ENEM 2023 com SQL]([(https://medium.com/@fernandomoro6/an%C3%A1lise-explorat%C3%B3ria-do-enem-2023-com-sql-a52119c2e9c1)]
+Confira a análise completa em SQL no Medium : [[Análise Exploratória do ENEM 2023 com SQL](https://medium.com/@fernandomoro6/an%C3%A1lise-explorat%C3%B3ria-do-enem-2023-com-sql-a52119c2e9c1)]
 
 ## 📈 Resultados
 Os resultados indicam que há uma tendência de aumento das notas médias conforme o nível de escolaridade dos pais cresce, especialmente em áreas como Linguagens e Matemática.
