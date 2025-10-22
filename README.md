@@ -11,6 +11,15 @@ Mais do que números, esta análise pretende levantar reflexões sobre os desafi
 - Power BI (dashboards e visualizações)
 - Jupyter Notebook
 
+📦 seu-projeto/
+├── data/
+│   └── dados_limpos.csv
+├── notebooks/
+│   └── 01_preparacao_dados.ipynb
+├── README.md
+└── requirements.txt
+
+
 ## 📂 Estrutura do projeto
 - `data/` → dados brutos e tratados  
 - `notebooks/` → análises e códigos  
